@@ -1,0 +1,5 @@
+alias mr make run
+alias mc=make clean
+alias m make
+alias r make run
+alias mc make clean

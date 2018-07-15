@@ -1,0 +1,21 @@
+;; Emacs-W3 HTTP cookies file
+;; Automatically generated file!!! DO NOT EDIT!!!
+
+(setq url-cookie-storage
+ '((".marca.com"
+  [url-cookie "MARCA_edition" "%7B%22e%22%3A%22n%22%2C%22v%22%3A3%7D" "01-Mar-2021 00:25:38.00 GMT" "/" ".marca.com" nil]
+  [url-cookie "Max-Age" "94608000" "01-Mar-2021 00:25:38.00 GMT" "/" ".marca.com" nil]
+  [url-cookie "MARCA_idusr" "WpiaAsCoFZUAAEYJUMU-f707aa0acc3396f8fd8c8d54e8c16c5d" "01-Mar-2021 00:25:38.00 GMT" "/" ".marca.com" nil]
+  [url-cookie "UE_pref" "%7B%22v%22%3A%22n%22%2C%22d%22%3A%22e%22%2C%22u%22%3A0%2C%22c%22%3A%224%22%7D" "01-Mar-2021 00:25:38.00 GMT" "/" ".marca.com" nil]))
+)
+(setq url-cookie-secure-storage
+ '(("reddit.com"
+  [url-cookie "loid" "00000000000zfrpxas.2.1519950361090.Z0FBQUFBQmFtSm9aMTJqTjNTR1psYktaMHFrSXh5Tjl4RjRJd1ZOT2JvM3NabGFtLThuTGtGNE9lNjVGeXFzNk0xbnBjMGJMMUp5enJiWjB1aVVJaGlXZnlkU3U1TGdDQVB2Y1RXQUdwUkduT3h5cWhHbFZnTllNVEpPMHpTS1IwNjZDR3FoUWRiR0k" "01-Mar-2020 00:26:01.00 GMT" "/" "reddit.com" t]
+  [url-cookie "Max-Age" "7199" "02-Mar-2018 02:28:06.00 GMT" "/" "reddit.com" t]
+  [url-cookie "session_tracker" "Im9VEbvPrxci8gV6sI.0.1519950486538.Z0FBQUFBQmFtSnFXbGQ0WVRiNll4WTFMbDM0N0cyY3FaZW5qb3JueHRSLWY5VmRZNVU1cC04SHZvUlBIT2Z6LXN2YjdxM3FhWXJuQVBtb2prX2FBQjVHUHZjdVBENnB2cEJkVkczek1YY1V6MU9SRTJ2SjhnVURPVGJ3UlEyaGRVbnpIWWt4c1BCdzY" "02-Mar-2018 02:28:06.00 GMT" "/" "reddit.com" t]))
+)
+
+;; Local Variables:
+;; version-control: never
+;; no-byte-compile: t
+;; End:
