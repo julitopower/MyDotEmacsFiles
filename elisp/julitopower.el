@@ -11,6 +11,20 @@
 ARG: a list of strings"
   (mapconcat 'identity arg " "))
 
-(shell-command-to-string (join-list (list "ls" "-la")))
+(defun cpp-md ()
+  "Insert markdown code block for c++."
+  (interactive)
+  (progn
+    (insert "```cpp\n\n```")
+    (backward-char 4)))
+
+(defun bold-md ()
+  "Set word at point bold in markdown."
+  (interactive)
+  (save-excursion
+    (left-word)
+    (insert "**")
+    (right-word)
+    (insert "**")))
 
 ;;; Julitopower.el ends here
